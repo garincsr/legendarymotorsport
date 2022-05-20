@@ -1,2 +1,2 @@
 # legendarymotorsport
-ReactJS ini bersikan Open API daftar kendaraan game GTA Online
+ReactJS ini berisikan Open API daftar kendaraan game GTA Online

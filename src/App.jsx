@@ -2,6 +2,7 @@ import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import { Home, Service, Car, Fetch} from './pages';
 import NavBar from './components/NavigationBar';
 import Poster from './components/Poster';
+import Footer from './components/Footer'
 import './App.css';
 
 function App() {
@@ -19,6 +20,7 @@ function App() {
         <Route exact path="/cars" element={<Fetch />}>
         </Route>
       </Routes>
+      <Footer />
     </BrowserRouter>
   );
 }

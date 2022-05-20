@@ -7,8 +7,8 @@ const navBar = () => {
                 <Navbar.Brand href="#home"></Navbar.Brand>
                     <Nav className="me-auto">
                     <Nav.Link href="/">Home</Nav.Link>
-                    <Nav.Link href="/service">Service</Nav.Link>
-                    <Nav.Link href="/cars">All Cars</Nav.Link>
+                    <Nav.Link href="/service">About Us</Nav.Link>
+                    <Nav.Link href="/cars">All Vehicle</Nav.Link>
                 </Nav>
             </Container>
         </Navbar>

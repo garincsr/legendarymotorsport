@@ -3,7 +3,6 @@ import style from '../assets/module-css/styles.module.css';
 import pegassiIgnus from '../assets/images/pegassi-ignus.webp';
 import pegassiIgnusBack from '../assets/images/pegassi-ignus-back.jpg'
 import 'bootstrap/dist/css/bootstrap.min.css';
-
 function Car () {
     return (
         <div className={style.latar}>
